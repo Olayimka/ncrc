@@ -13260,7 +13260,7 @@ p,
 
     #siteWrapper .sqs-button-element--primary,
     .sqs-block-form-lightbox .sqs-button-element--primary {
-        font-size: calc((var(--primary-button-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--primary-button-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -13299,7 +13299,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
     .sqs-block-form-lightbox #Tock_widget_container .sqs-button-element--primary .TockWidget-B2,
     #siteWrapper #Tock_widget_container .sqs-button-element--primary .MainLabelSpan,
     .sqs-block-form-lightbox #Tock_widget_container .sqs-button-element--primary .MainLabelSpan {
-        font-size: calc((var(--primary-button-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem) !important
+        font-size: calc((var(--primary-button-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem) !important
     }
 }
 
@@ -13338,7 +13338,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
     #siteWrapper .sqs-button-element--secondary,
     .sqs-block-form-lightbox .sqs-button-element--secondary {
-        font-size: calc((var(--secondary-button-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--secondary-button-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -13377,7 +13377,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
     .sqs-block-form-lightbox #Tock_widget_container .sqs-button-element--secondary .TockWidget-B2,
     #siteWrapper #Tock_widget_container .sqs-button-element--secondary .MainLabelSpan,
     .sqs-block-form-lightbox #Tock_widget_container .sqs-button-element--secondary .MainLabelSpan {
-        font-size: calc((var(--secondary-button-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem) !important
+        font-size: calc((var(--secondary-button-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem) !important
     }
 }
 
@@ -13416,7 +13416,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
     #siteWrapper .sqs-button-element--tertiary,
     .sqs-block-form-lightbox .sqs-button-element--tertiary {
-        font-size: calc((var(--tertiary-button-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--tertiary-button-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -13455,7 +13455,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
     .sqs-block-form-lightbox #Tock_widget_container .sqs-button-element--tertiary .TockWidget-B2,
     #siteWrapper #Tock_widget_container .sqs-button-element--tertiary .MainLabelSpan,
     .sqs-block-form-lightbox #Tock_widget_container .sqs-button-element--tertiary .MainLabelSpan {
-        font-size: calc((var(--tertiary-button-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem) !important
+        font-size: calc((var(--tertiary-button-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem) !important
     }
 }
 
@@ -13527,7 +13527,7 @@ body {
 
     .site-wrapper,
     .sqs-catalog-item-list {
-        font-size: calc((var(--normal-text-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--normal-text-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -13568,7 +13568,7 @@ h4 {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .sqsrte-large {
-        font-size: calc((var(--large-text-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--large-text-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -13587,7 +13587,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .sqsrte-small {
-        font-size: calc((var(--small-text-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--small-text-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -13614,7 +13614,7 @@ h1 {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     h1 {
-        font-size: calc((var(--heading-1-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--heading-1-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -13637,7 +13637,7 @@ h2 {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     h2 {
-        font-size: calc((var(--heading-2-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--heading-2-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -13660,7 +13660,7 @@ h3 {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     h3 {
-        font-size: calc((var(--heading-3-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--heading-3-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -13683,7 +13683,7 @@ h4 {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     h4 {
-        font-size: calc((var(--heading-4-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--heading-4-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -13711,7 +13711,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .sqs-block-html pre code {
-        font-size: calc((var(--normal-meta-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--normal-meta-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -13742,7 +13742,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
     .sqs-announcement-bar-text,
     .sqs-announcement-bar-text p {
-        font-size: calc((var(--announcement-bar-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--announcement-bar-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -13774,7 +13774,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .header-title-text {
-        font-size: calc((var(--site-title-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--site-title-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -13802,7 +13802,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .header-display-mobile .header-title-text {
-        font-size: calc((var(--mobile-site-title-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--mobile-site-title-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -13839,7 +13839,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
     .cart-style-text,
     .icon-cart-quantity:not(.legacy-cart),
     .language-picker {
-        font-size: calc((var(--site-navigation-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--site-navigation-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -13890,7 +13890,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
     #siteWrapper .header-actions-action--cta .sqs-button-element--primary,
     #siteWrapper .header-skip-link {
-        font-size: calc((var(--header-button-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--header-button-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -14018,7 +14018,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .user-items-list .list-section-title {
-        font-size: calc((var(--list-section-title-text-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--list-section-title-text-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -14046,7 +14046,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .lesson-title {
-        font-size: calc((var(--video-basic-grid-list-title-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--video-basic-grid-list-title-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -14074,7 +14074,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .lessons.collection-content-wrapper .grid-desc {
-        font-size: calc((var(--video-basic-grid-list-excerpt-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--video-basic-grid-list-excerpt-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -14102,7 +14102,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .lessons-grid-meta-container {
-        font-size: calc((var(--video-basic-grid-list-meta-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--video-basic-grid-list-meta-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -14130,7 +14130,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .video-category-nav-link {
-        font-size: calc((var(--video-basic-grid-list-category-nav-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--video-basic-grid-list-category-nav-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -14158,7 +14158,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .lesson-item .lesson-details-title {
-        font-size: calc((var(--video-item-title-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--video-item-title-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -14186,7 +14186,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .lesson-item .lesson-grid-meta-container {
-        font-size: calc((var(--video-item-meta-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--video-item-meta-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -14214,7 +14214,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .lesson-item .lesson-details-description {
-        font-size: calc((var(--video-item-description-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--video-item-description-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -14242,7 +14242,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .lesson-item .lesson-item-pagination-title {
-        font-size: calc((var(--video-item-pagination-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--video-item-pagination-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -14270,7 +14270,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .blog-basic-grid .blog-title {
-        font-size: calc((var(--blog-basic-grid-list-title-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--blog-basic-grid-list-title-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -14301,7 +14301,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
     .blog-basic-grid .blog-excerpt,
     .blog-basic-grid .blog-more-link {
-        font-size: calc((var(--blog-basic-grid-list-excerpt-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--blog-basic-grid-list-excerpt-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -14338,7 +14338,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
     .blog-basic-grid .blog-categories,
     .blog-basic-grid .blog-author,
     .blog-basic-grid .blog-date {
-        font-size: calc((var(--blog-basic-grid-list-meta-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--blog-basic-grid-list-meta-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -14372,7 +14372,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .blog-single-column .blog-title {
-        font-size: calc((var(--blog-single-column-list-title-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--blog-single-column-list-title-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -14403,7 +14403,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
     .blog-single-column .blog-excerpt,
     .blog-single-column .blog-more-link {
-        font-size: calc((var(--blog-single-column-list-excerpt-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--blog-single-column-list-excerpt-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -14440,7 +14440,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
     .blog-single-column .blog-categories,
     .blog-single-column .blog-author,
     .blog-single-column .blog-date {
-        font-size: calc((var(--blog-single-column-list-meta-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--blog-single-column-list-meta-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -14474,7 +14474,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .blog-side-by-side .blog-title {
-        font-size: calc((var(--blog-side-by-side-list-title-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--blog-side-by-side-list-title-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -14505,7 +14505,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
     .blog-side-by-side .blog-excerpt,
     .blog-side-by-side .blog-more-link {
-        font-size: calc((var(--blog-side-by-side-list-excerpt-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--blog-side-by-side-list-excerpt-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -14542,7 +14542,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
     .blog-side-by-side .blog-categories,
     .blog-side-by-side .blog-author,
     .blog-side-by-side .blog-date {
-        font-size: calc((var(--blog-side-by-side-list-meta-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--blog-side-by-side-list-meta-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -14576,7 +14576,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .blog-alternating-side-by-side .blog-title {
-        font-size: calc((var(--blog-alternating-side-by-side-list-title-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--blog-alternating-side-by-side-list-title-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -14607,7 +14607,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
     .blog-alternating-side-by-side .blog-excerpt,
     .blog-alternating-side-by-side .blog-more-link {
-        font-size: calc((var(--blog-alternating-side-by-side-list-excerpt-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--blog-alternating-side-by-side-list-excerpt-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -14644,7 +14644,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
     .blog-alternating-side-by-side .blog-categories,
     .blog-alternating-side-by-side .blog-author,
     .blog-alternating-side-by-side .blog-date {
-        font-size: calc((var(--blog-alternating-side-by-side-list-meta-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--blog-alternating-side-by-side-list-meta-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -14678,7 +14678,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .blog-masonry .blog-title {
-        font-size: calc((var(--blog-grid-masonry-list-title-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--blog-grid-masonry-list-title-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -14709,7 +14709,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
     .blog-masonry .blog-excerpt,
     .blog-masonry .blog-more-link {
-        font-size: calc((var(--blog-grid-masonry-list-excerpt-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--blog-grid-masonry-list-excerpt-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -14746,7 +14746,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
     .blog-masonry .blog-categories,
     .blog-masonry .blog-author,
     .blog-masonry .blog-date {
-        font-size: calc((var(--blog-grid-masonry-list-meta-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--blog-grid-masonry-list-meta-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -14780,7 +14780,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .blog-item-wrapper .blog-item-title h1.entry-title {
-        font-size: calc((var(--blog-item-title-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--blog-item-title-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -14815,7 +14815,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
     .blog-item-wrapper .blog-meta-item a,
     .blog-item-wrapper .blog-meta-item span,
     .blog-item-wrapper .item-pagination-prev-next {
-        font-size: calc((var(--blog-item-meta-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--blog-item-meta-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -14856,7 +14856,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
     .blog-item-wrapper .author-name,
     .blog-item-wrapper .author-website,
     .blog-item-wrapper .author-bio {
-        font-size: calc((var(--blog-item-author-profile-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--blog-item-author-profile-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -14890,7 +14890,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     [data-collection-type^="blog"] .item-pagination-title {
-        font-size: calc((var(--blog-item-pagination-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--blog-item-pagination-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -14918,7 +14918,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .portfolio-grid-basic .portfolio-title {
-        font-size: calc((var(--portfolio-grid-basic-title-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--portfolio-grid-basic-title-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -14946,7 +14946,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .portfolio-grid-overlay .portfolio-title {
-        font-size: calc((var(--portfolio-grid-overlay-title-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--portfolio-grid-overlay-title-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -14974,7 +14974,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .portfolio-hover[data-variant-hover-cover] .portfolio-hover-item-title {
-        font-size: calc((var(--portfolio-index-background-title-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--portfolio-index-background-title-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -15002,7 +15002,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .collection-type-portfolio-index-background .portfolio-index-background-link h1 {
-        font-size: calc((var(--portfolio-index-background-title-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--portfolio-index-background-title-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -15030,7 +15030,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .portfolio-hover[data-variant-hover-follow] .portfolio-hover-item-title {
-        font-size: calc((var(--portfolio-hover-follow-title-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--portfolio-hover-follow-title-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -15058,7 +15058,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .portfolio-hover[data-variant-hover-static] .portfolio-hover-item-title {
-        font-size: calc((var(--portfolio-hover-static-title-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--portfolio-hover-static-title-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -15086,7 +15086,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     [data-collection-type^="portfolio"] .item-pagination-title {
-        font-size: calc((var(--portfolio-item-pagination-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--portfolio-item-pagination-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -15114,7 +15114,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     [data-collection-type^="events"] .item-pagination-title {
-        font-size: calc((var(--events-item-pagination-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--events-item-pagination-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -15143,7 +15143,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     [data-collection-type^="events"] .events-item-pagination-date {
-        font-size: calc((var(--events-item-pagination-date-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--events-item-pagination-date-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -15171,7 +15171,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .sqs-block-collectionlink .collectionlink-title {
-        font-size: calc((var(--content-link-block-title-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--content-link-block-title-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -15208,7 +15208,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .menu-select-labels {
-        font-size: calc((var(--menu-block-nav-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem) !important
+        font-size: calc((var(--menu-block-nav-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem) !important
     }
 }
 
@@ -15236,7 +15236,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .menu-section-title {
-        font-size: calc((var(--menu-block-title-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem) !important
+        font-size: calc((var(--menu-block-title-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem) !important
     }
 }
 
@@ -15264,7 +15264,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .menu-item-title {
-        font-size: calc((var(--menu-block-item-title-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem) !important
+        font-size: calc((var(--menu-block-item-title-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem) !important
     }
 }
 
@@ -15292,7 +15292,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .menu-item-description {
-        font-size: calc((var(--menu-block-item-description-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem) !important
+        font-size: calc((var(--menu-block-item-description-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem) !important
     }
 }
 
@@ -15323,7 +15323,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
     .menu-item-price-top,
     .menu-item-price-bottom {
-        font-size: calc((var(--menu-block-item-price-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem) !important
+        font-size: calc((var(--menu-block-item-price-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem) !important
     }
 }
 
@@ -15355,7 +15355,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .sqs-audio-embed {
-        font-size: calc((var(--normal-meta-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--normal-meta-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -15383,7 +15383,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .sqs-block-form .field-list .title {
-        font-size: calc((var(--form-block-title-text-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem) !important
+        font-size: calc((var(--form-block-title-text-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem) !important
     }
 }
 
@@ -15416,7 +15416,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
     .sqs-block-form .field-list input,
     .sqs-block-form .field-list textarea,
     .sqs-block-form .field-list .form-input-prefix {
-        font-size: calc((var(--form-block-input-text-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem) !important
+        font-size: calc((var(--form-block-input-text-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem) !important
     }
 }
 
@@ -15450,7 +15450,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .sqs-block-form .field-list .description {
-        font-size: calc((var(--form-block-description-text-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem) !important
+        font-size: calc((var(--form-block-description-text-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem) !important
     }
 }
 
@@ -15478,7 +15478,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .sqs-block-form .field-list .caption-text {
-        font-size: calc((var(--form-block-caption-text-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem) !important
+        font-size: calc((var(--form-block-caption-text-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem) !important
     }
 }
 
@@ -15509,7 +15509,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
     .sqs-block-form .field-list ::placeholder,
     .sqs-block-form .field-list select.show-placeholder {
-        font-size: calc((var(--form-block-placeholder-text-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem) !important
+        font-size: calc((var(--form-block-placeholder-text-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem) !important
     }
 }
 
@@ -15541,7 +15541,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .sqs-block-form .field-list :-ms-input-placeholder {
-        font-size: calc((var(--form-block-placeholder-text-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem) !important
+        font-size: calc((var(--form-block-placeholder-text-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem) !important
     }
 }
 
@@ -15569,7 +15569,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .sqs-block-form .field-list ::-ms-input-placeholder {
-        font-size: calc((var(--form-block-placeholder-text-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem) !important
+        font-size: calc((var(--form-block-placeholder-text-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem) !important
     }
 }
 
@@ -15597,7 +15597,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .sqs-block-form .field-list .option {
-        font-size: calc((var(--form-block-option-text-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem) !important
+        font-size: calc((var(--form-block-option-text-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem) !important
     }
 }
 
@@ -15625,7 +15625,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .sqs-block-form .field-list .question {
-        font-size: calc((var(--form-block-survey-title-text-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem) !important
+        font-size: calc((var(--form-block-survey-title-text-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem) !important
     }
 }
 
@@ -15653,7 +15653,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .sqs-block-form .field-list select {
-        font-size: calc((var(--form-block-select-dropdown-text-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem) !important
+        font-size: calc((var(--form-block-select-dropdown-text-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem) !important
     }
 }
 
@@ -15681,7 +15681,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .sqs-block-form .field-list .phone select {
-        font-size: calc((var(--form-block-input-text-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem) !important
+        font-size: calc((var(--form-block-input-text-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem) !important
     }
 }
 
@@ -15710,7 +15710,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .sqs-modal-lightbox-content .lightbox-inner .lightbox-content.lightbox-form-content-background .form-title {
-        font-size: calc((var(--heading-3-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--heading-3-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -15738,7 +15738,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .newsletter-form .newsletter-form-header-title {
-        font-size: calc((var(--newsletter-block-title-text-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem) !important
+        font-size: calc((var(--newsletter-block-title-text-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem) !important
     }
 }
 
@@ -15766,7 +15766,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .newsletter-form .newsletter-form-header-description {
-        font-size: calc((var(--newsletter-block-description-text-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem) !important
+        font-size: calc((var(--newsletter-block-description-text-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem) !important
     }
 }
 
@@ -15794,7 +15794,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .newsletter-form .newsletter-form-field-element {
-        font-size: calc((var(--newsletter-block-description-text-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem) !important
+        font-size: calc((var(--newsletter-block-description-text-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem) !important
     }
 }
 
@@ -15822,7 +15822,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .newsletter-form .newsletter-form-footnote {
-        font-size: calc((var(--newsletter-block-footnote-text-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem) !important
+        font-size: calc((var(--newsletter-block-footnote-text-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem) !important
     }
 }
 
@@ -15847,7 +15847,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .sqs-block-summary-v2 .summary-block-setting-text-size-extralarge .summary-title {
-        font-size: calc((var(--heading-2-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--heading-2-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -15866,7 +15866,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .sqs-block-summary-v2 .summary-block-setting-text-size-extralarge .summary-excerpt p {
-        font-size: calc((var(--normal-text-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--normal-text-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -15885,7 +15885,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .sqs-block-summary-v2 .summary-block-setting-text-size-large .summary-title {
-        font-size: calc((var(--large-text-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--large-text-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -15906,7 +15906,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
     .sqs-block-summary-v2 .summary-title,
     .sqs-block-summary-v2 .summary-block-setting-text-size-medium .summary-title {
-        font-size: calc((var(--normal-text-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--normal-text-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -15929,7 +15929,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .sqs-block-summary-v2 .summary-block-setting-text-size-small .summary-title {
-        font-size: calc((var(--small-text-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--small-text-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -15957,7 +15957,7 @@ div.sqs-block-opentable-v2 .squarespace-opentable-new-age-wrapper h1 {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     div.sqs-block-opentable-v2 .squarespace-opentable-new-age-wrapper h1 {
-        font-size: calc((var(--heading-3-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--heading-3-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -15985,7 +15985,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .sqs-block-quote blockquote {
-        font-size: calc((var(--quote-block-text-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--quote-block-text-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -16013,7 +16013,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .sqs-block-quote .source {
-        font-size: calc((var(--quote-block-source-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--quote-block-source-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -16047,7 +16047,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .course-list .course-list__course-name {
-        font-size: calc((var(--course-list-course-name-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--course-list-course-name-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -16075,7 +16075,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .course-list .course-list__course-description {
-        font-size: calc((var(--course-list-course-description-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--course-list-course-description-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -16103,7 +16103,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .course-list .course-list__list-chapter-item-chapter-name {
-        font-size: calc((var(--course-list-chapter-item-chapter-name-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--course-list-chapter-item-chapter-name-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -16131,7 +16131,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .course-list .course-list__list-chapter-item-chapter-meta {
-        font-size: calc((var(--course-list-chapter-item-chapter-meta-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--course-list-chapter-item-chapter-meta-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -16159,7 +16159,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .course-list .course-list__list-course-item-lesson-name {
-        font-size: calc((var(--course-list-course-item-lesson-name-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--course-list-course-item-lesson-name-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -16187,7 +16187,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .course-list .course-list__list-course-item-lesson-excerpt {
-        font-size: calc((var(--course-list-course-item-lesson-excerpt-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--course-list-course-item-lesson-excerpt-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -16215,7 +16215,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .course-list .course-list__list-course-item-lesson-meta {
-        font-size: calc((var(--course-list-course-item-lesson-meta-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--course-list-course-item-lesson-meta-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -16243,7 +16243,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .course-list .course-list__grid-chapter-item-chapter-name {
-        font-size: calc((var(--course-list-grid-layout-chapter-name-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--course-list-grid-layout-chapter-name-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -16271,7 +16271,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .course-list .course-list__grid-chapter-item-chapter-meta {
-        font-size: calc((var(--course-list-grid-layout-chapter-meta-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--course-list-grid-layout-chapter-meta-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -16299,7 +16299,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .course-list .course-list__grid-course-item-lesson-name {
-        font-size: calc((var(--course-list-grid-layout-course-item-name-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--course-list-grid-layout-course-item-name-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -16327,7 +16327,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .course-list .course-list__grid-course-item-lesson-excerpt {
-        font-size: calc((var(--course-list-grid-layout-course-item-excerpt-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--course-list-grid-layout-course-item-excerpt-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -16355,7 +16355,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .course-list .course-list__grid-course-item-lesson-meta {
-        font-size: calc((var(--course-list-grid-layout-course-item-meta-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--course-list-grid-layout-course-item-meta-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -16383,7 +16383,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .course-item .course-item__side-nav-chapter-title {
-        font-size: calc((var(--course-item-side-nav-chapter-name-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--course-item-side-nav-chapter-name-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -16411,7 +16411,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .course-item .course-item__side-nav-chapter-metadata {
-        font-size: calc((var(--course-item-side-nav-chapter-meta-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--course-item-side-nav-chapter-meta-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -16439,7 +16439,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .course-item .course-item__side-nav-link-title {
-        font-size: calc((var(--course-item-side-nav-lesson-name-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--course-item-side-nav-lesson-name-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -16467,7 +16467,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .course-item .course-item__side-nav-lesson-metadata {
-        font-size: calc((var(--course-item-side-nav-lesson-meta-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--course-item-side-nav-lesson-meta-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -16495,7 +16495,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .course-item .course-item__course-title {
-        font-size: calc((var(--course-item-name-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--course-item-name-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -16523,7 +16523,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .course-item .course-item__side-nav-mobile-course-title {
-        font-size: calc((var(--course-item-name-mobile-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--course-item-name-mobile-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -16551,7 +16551,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .course-item .course-item__chapter-title {
-        font-size: calc((var(--course-item-chapter-name-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--course-item-chapter-name-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -16579,7 +16579,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .course-item .course-item__lesson-title {
-        font-size: calc((var(--course-item-lesson-name-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--course-item-lesson-name-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -16607,7 +16607,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     .gdpr-cookie-banner p {
-        font-size: calc((var(--cookie-banner-disclaimer-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--cookie-banner-disclaimer-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -23629,7 +23629,7 @@ img[data-src]:not([src]):not([srcset]) {
     .product-detail-section .ProductItem-details .product-description,
     .collection-type-products .product-detail .product-description,
     .product-detail-section .product-detail .product-description {
-        font-size: calc((var(--product-basic-item-description-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--product-basic-item-description-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -23712,7 +23712,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
     .product-detail-section .ProductItem-details h1.product-title,
     .collection-type-products .product-detail h1.product-title,
     .product-detail-section .product-detail h1.product-title {
-        font-size: calc((var(--product-basic-item-title-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--product-basic-item-title-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -23763,7 +23763,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
     .product-detail-section .ProductItem-details .product-price,
     .collection-type-products .product-detail .product-price,
     .product-detail-section .product-detail .product-price {
-        font-size: calc((var(--product-basic-item-price-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--product-basic-item-price-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -23822,7 +23822,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
     .product-detail-section .ProductItem-details .pdp-subscriptions-and-otp .frequency-label,
     .collection-type-products .product-detail .pdp-subscriptions-and-otp .frequency-label,
     .product-detail-section .product-detail .pdp-subscriptions-and-otp .frequency-label {
-        font-size: calc((var(--product-basic-item-variant-fields-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--product-basic-item-variant-fields-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -23898,7 +23898,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
     .product-detail-section .ProductItem-details .subs-and-otp-option select,
     .collection-type-products .product-detail .subs-and-otp-option select,
     .product-detail-section .product-detail .subs-and-otp-option select {
-        font-size: calc((var(--product-basic-item-variant-fields-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--product-basic-item-variant-fields-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -23957,7 +23957,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
     .product-detail-section .ProductItem-details .product-scarcity,
     .collection-type-products .product-detail .product-scarcity,
     .product-detail-section .product-detail .product-scarcity {
-        font-size: calc((var(--product-basic-item-scarcity-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--product-basic-item-scarcity-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -24033,7 +24033,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
     .product-list-section .grid-title,
     .collection-type-products .product-list-item-title,
     .product-list-section .product-list-item-title {
-        font-size: calc((var(--product-grid-text-below-title-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--product-grid-text-below-title-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -24076,7 +24076,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
     .product-list-section .grid-prices,
     .collection-type-products .product-list-item-price,
     .product-list-section .product-list-item-price {
-        font-size: calc((var(--product-grid-text-below-price-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--product-grid-text-below-price-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -24119,7 +24119,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
     .product-list-section .grid-meta-status,
     .collection-type-products .product-list-item-status,
     .product-list-section .product-list-item-status {
-        font-size: calc((var(--product-grid-text-below-status-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--product-grid-text-below-status-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -24158,7 +24158,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
     .collection-type-products .product-scarcity,
     .product-list-section .product-scarcity {
-        font-size: calc((var(--product-grid-text-below-scarcity-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--product-grid-text-below-scarcity-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -24193,7 +24193,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
     .collection-type-products .plp-grid-add-to-cart .variant-option select,
     .product-list-section .plp-grid-add-to-cart .variant-option select {
-        font-size: calc((var(--product-grid-text-below-price-font-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--product-grid-text-below-price-font-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -27954,7 +27954,7 @@ body:not(.tweak-events-stacked-ical-gcal-links) .event-meta-addtocalendar-contai
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     #siteWrapper .user-items-list-item-container.user-items-list-simple[data-title-font-unit="rem"] .list-item-content__title {
-        font-size: calc((var(--title-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--title-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -27973,7 +27973,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     #siteWrapper .user-items-list-item-container.user-items-list-simple[data-description-font-unit="rem"] .list-item-content__description {
-        font-size: calc((var(--body-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--body-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -27992,7 +27992,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     #siteWrapper .user-items-list-item-container.user-items-list-simple[data-button-font-unit="rem"] .list-item-content__button {
-        font-size: calc((var(--button-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--button-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -28236,7 +28236,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     #siteWrapper .user-items-list-item-container.user-items-list-banner-slideshow[data-title-font-unit="rem"] .list-item-content__title {
-        font-size: calc((var(--title-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--title-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -28255,7 +28255,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     #siteWrapper .user-items-list-item-container.user-items-list-banner-slideshow[data-description-font-unit="rem"] .list-item-content__description {
-        font-size: calc((var(--body-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--body-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -28274,7 +28274,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     #siteWrapper .user-items-list-item-container.user-items-list-banner-slideshow[data-button-font-unit="rem"] .list-item-content__button {
-        font-size: calc((var(--button-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--button-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -28732,7 +28732,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     #siteWrapper .user-items-list-item-container.user-items-list-carousel[data-title-font-unit="rem"] .list-item-content__title {
-        font-size: calc((var(--title-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--title-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -28751,7 +28751,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     #siteWrapper .user-items-list-item-container.user-items-list-carousel[data-description-font-unit="rem"] .list-item-content__description {
-        font-size: calc((var(--body-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--body-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -28770,7 +28770,7 @@ screen and (max-width:calc(1512px - 1px)) and (orientation:landscape) {
 
 @media screen and (max-width: 767px) and (orientation: portrait) {
     #siteWrapper .user-items-list-item-container.user-items-list-carousel[data-button-font-unit="rem"] .list-item-content__button {
-        font-size: calc((var(--button-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem)
+        font-size: calc((var(--button-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem)
     }
 }
 
@@ -31070,7 +31070,7 @@ body:not(.header--menu-open) .header-nav-folder-item--active .header-nav-folder-
 
     .Marquee h1,
     .Marquee p {
-        font-size: calc((var(--marquee-font-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem) !important
+        font-size: calc((var(--marquee-font-size-value) - 1) * calc(.012 * min(100vh, 500px)) + 1rem) !important
     }
 }
 
